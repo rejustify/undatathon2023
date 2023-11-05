@@ -55,6 +55,3 @@ choroLayer(spdf = nuts0.spdf,
            add = TRUE) # add the layer to the current plot
 
 plot(nuts0.spdf,border = "grey20", lwd=0.75, add=TRUE)
-
-
-vis(rdf)
